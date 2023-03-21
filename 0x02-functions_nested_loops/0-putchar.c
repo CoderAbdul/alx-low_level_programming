@@ -3,7 +3,6 @@
  * main - print _putchar on the screen
  * Return: return 0 when code successful
  */
-
 int main(void)
 {
 	_putchar('_');
