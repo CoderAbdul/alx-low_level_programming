@@ -1,4 +1,4 @@
-0x05-pointers_arrays_strings director
+0x05-pointers_arrays_strings directory
 
 FILES			DESCRIPTION
 main.h - is the header file containing all the function prototypes.
