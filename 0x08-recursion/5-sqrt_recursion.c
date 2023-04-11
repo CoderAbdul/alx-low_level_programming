@@ -8,7 +8,7 @@
  * Return: return natural sqrt
  */
 
-int natural_sqrt(int i. int j)
+int natural_sqrt(int i, int j)
 {
 	int a;
 
