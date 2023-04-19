@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - A program that prints the sum of name of the file it was complied from
+ * main - A program that prints the sum of name of
+ * the file it was complied from.
  *
  * Return: return 0
  */
